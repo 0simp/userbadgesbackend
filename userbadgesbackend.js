@@ -56,7 +56,7 @@ window.AVIA_USER_BADGES = [
     {
         name:'Eternal virgin',
         icon:'🇻',
-        color:'#251a01',
+        color:'#665a2c',
         users:[
             '0simp#2291'
         ]
