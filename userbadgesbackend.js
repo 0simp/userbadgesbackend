@@ -63,8 +63,8 @@ window.AVIA_USER_BADGES = [
     },
     {
         name:'Porn master',
-        icon:'👑',
-        color:'f99428',
+        icon: "👑",
+        color:'#f99428',
         users:[
             'Jacksonlolreal#7412'
         ]
