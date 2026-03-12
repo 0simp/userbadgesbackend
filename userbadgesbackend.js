@@ -68,6 +68,14 @@ window.AVIA_USER_BADGES = [
         users:[
             'Jacksonlolreal#7412'
         ]
+    },
+    {
+        name:'100% REAL Britney Spears',
+        icon:'😱',
+        color:'#b00b1e',
+        users:[
+            'britneyspears#9326'
+        ]
     }
 
 ];;
